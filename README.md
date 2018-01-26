@@ -11,6 +11,6 @@ These files are required to setup & configure **OpenGL** in **Visual Studio 2015
 
 For setting up OpenGL in Visual Studio 2015, watch video [How to setup OpenGL (GLEW & GLUT) in Visual Studio 2015 C++ (Windows10)](https://www.youtube.com/watch?v=HurTyJ3v_xg) on YouTube.
 
-Also **SUBSCRIBE** to our YouTube channel [TACTICAL HACKER](https://www.youtube.com/channel/UCbhGxvpuObxw5vZsvbKa1Cg) to get more videos on **Programming**, **Animations**, **Software** and other **Computer Science related topics**.
+Also **SUBSCRIBE** to our YouTube channel [TACTICAL HACKER](https://www.youtube.com/channel/UCbhGxvpuObxw5vZsvbKa1Cg) to get more videos on **Programming**, **Animations**, **Softwares** and other **Computer Science related topics**.
 
 Happy Coding!
